@@ -1,0 +1,6 @@
+{
+  "name": "Kira's To-Do-List",
+  "description": "Kira's to-do list with interactive greetings, due date tracking, priority filters, and local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
